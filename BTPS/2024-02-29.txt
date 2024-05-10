@@ -1,0 +1,153 @@
+No.
+ASET
+1. Kas 498.285
+2. Penempatan pada Bank Indonesia 918.184
+3. Penempatan pada bank lain 2.399
+4. Tagihan spot dan forward -
+5. Surat berharga yang dimiliki 8.767.982
+6. Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (reverse repo) -
+7. Tagihan akseptasi -
+8. Piutang
+a. Piutang murabahah 10.973.977
+b. Piutang istishna’ -
+c. Piutang multijasa -
+d. Piutang qardh 358
+e. Piutang sewa -
+9. Pembiayaan bagi hasil
+a. Mudharabah -
+b. Musyarakah 13.435
+c. Lainnya -
+10. Pembiayaan sewa -
+11. Penyertaan modal 297.000
+12. Aset keuangan lainnya 193.912
+13. Cadangan kerugian penurunan nilai aset keuangan -/- (1.188.114)
+14. Salam -
+15. Aset istishna’ dalam penyelesaian -
+Termin istishna’ -/- -
+16. Persediaan -
+17. Aset tidak berwujud 217.481
+18. Aset tetap dan inventaris 373.597
+19. Aset nonproduktif
+a. Properti terbengkalai -
+b. Agunan yang diambil alih -
+c. Rekening tunda -
+d. Aset antar kantor -
+20. Aset lainnya 394.470
+TOTAL ASET 21.462.966
+LIABILITAS DAN EKUITAS
+LIABILITAS
+1. Dana simpanan wadiah
+a. Giro 22.301
+b. Tabungan 2.162.216
+2. Dana investasi
+a. Giro -
+b. Tabungan 753.119
+c. Deposito 9.148.261
+3. Uang elektronik -
+4. Liabilitas kepada Bank Indonesia -
+5. Liabilitas kepada bank lain -
+6. Liabilitas spot dan forward -
+7. Surat berharga diterbitkan -
+8. Liabilitas akseptasi -
+9. Pembiayaan diterima -
+10. Setoran jaminan -
+11. Liabilitas antar kantor -
+12. Liabilitas lainnya 473.453
+13. Dana investasi -
+TOTAL LIABILITAS 12.559.350
+EKUITAS
+14. Modal disetor
+a. Modal dasar 2.750.000
+b. Modal yang belum disetor -/- (1.979.630)
+c. Saham yang dibeli kembali (treasury stock) -/- (25)
+15. Tambahan modal disetor
+a. Agio 842.145
+b. Disagio -/- -
+c. Modal sumbangan -
+d. Dana setoran modal -
+e. Lainnya 20.916
+16. Penghasilan komprehensif lain
+a. Keuntungan 38.362
+b. Kerugian -
+17. Cadangan
+a. Cadangan umum 125.000
+b. Cadangan tujuan -
+18. Laba / rugi
+a. Tahun-tahun lalu 6.958.705
+b. Tahun berjalan 148.143
+c. Dividen yang dibayarkan -/- -
+TOTAL EKUITAS 8.903.616
+TOTAL LIABILITAS DAN EKUITAS 21.462.966
+29 Februari 2024
+LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN BULANAN
+Tanggal 29 Februari 2024
+(Dalam Jutaan Rupiah)
+1 Januari s.d.
+29 Februari 2024
+INDIVIDUAL
+POS-POSNo.
+PENDAPATAN DAN BEBAN OPERASIONAL
+A. Pendapatan dan Beban Operasional dari Penyaluran Dana
+1. Pendapatan Penyaluran Dana 902.504
+a. Pendapatan dari piutang
+i. Murabahah 816.258
+ii. Istishna' -
+iii. Multijasa -
+iv. Ujrah -
+v. Lainnya -
+b. Pendapatan dari bagi hasil
+i. Mudharabah -
+ii. Musyarakah 297
+iii. Lainnya -
+c. Pendapatan sewa -
+d. Lainnya 85.949
+2. Bagi hasil untuk pemilik dana investasi -/- 83.078
+a. 83.078
+b. -
+3. Pendapatan Setelah Distribusi Bagi Hasil 819.426
+B. Pendapatan dan Beban Operasional Selain dari Penyaluran Dana
+1. Keuntungan/kerugian dari peningkatan/penurunan nilai wajar aset keuangan -
+2. Keuntungan/kerugian dari penurunan/peningkatan nilai wajar liabilitas keuangan -
+3. Keuntungan/kerugian penjualan aset keuangan -
+4. Keuntungan/kerugian transaksi spot dan forward (realised) -
+5. Keuntungan/kerugian dari penyertaan dengan equity method -
+6. Keuntungan/kerugian penjabaran transaksi valuta asing -
+7. Pendapatan bank selaku mudharib dalam mudharabah muqayyadah -
+8. Dividen -
+9. Komisi/provisi/fee dan administrasi 232
+10. Pendapatan lainnya 13.408
+11. Beban bonus wadiah -/- 128
+12. Beban (pemulihan) kerugian penurunan nilai aset keuangan (impairment) -/- 281.828
+13. Kerugian terkait risiko operasional -/- 1.074
+14. Beban (pemulihan) kerugian penurunan nilai aset keuangan (non keuangan) -/- -
+15. Beban tenaga kerja -/- 236.589
+16. Beban promosi -/- 1.769
+17. Beban lainnya -/- 123.542
+Pendapatan/ Beban Operasional Lainnya (631.290)
+LABA/ RUGI OPERASIONAL 188.136
+PENDAPATAN/ BEBAN NON OPERASIONAL
+1. Keuntungan/ kerugian penjualan aset tetap dan inventaris 392
+2. Pendapatan/ beban non operasional lainnya 206
+LABA/ RUGI NON OPERASIONAL 598
+LABA/ RUGI TAHUN BERJALAN SEBELUM PAJAK 188.734
+Pajak penghasilan
+a. Taksiran pajak tahun berjalan (35.180)
+b. Pendapatan/ beban pajak tangguhan (5.411)
+LABA/ RUGI BERSIH TAHUN BERJALAN 148.143
+PENGHASILAN KOMPREHENSIF LAIN
+Pos-pos yang tidak akan direklasifikasi ke laba rugi
+a. Keuntungan yang berasal dari revaluasi aset tetap -
+b. Keuntungan/ kerugian yang berasal dari pengukuran kembali atas program
+pensiun manfaat pasti -
+c. Lainnya -
+2.
+1.
+Pos-pos yang akan direklasifikasi ke laba rugi
+a. Keuntungan/ kerugian yang berasal dari penyesuaian akibat penjabaran laporan
+keuangan dalam mata uang asing -
+b. Keuntungan/ kerugian yang berasal dari peningkatan nilai wajar (MTM) aset keuangan
+instrumen lainnya ekuitas yang diukur pada nilai wajar melalui penghasilan komprehensif (8)
+c. Lainnya -
+PENGHASILAN KOMPREHENSIF LAIN TAHUN BERJALAN SETELAH PAJAK (8)
+TOTAL LABA/ RUGI KOMPREHENSIF TAHUN BERJALAN 148.135
+

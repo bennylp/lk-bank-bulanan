@@ -1,0 +1,172 @@
+LAPORAN POSISI KEUANGAN BULANAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 31 Agustus 2023
+(dalam jutaan rupiah)
+INDIVIDUAL
+31 Agustus 2023
+ASET
+1. Kas 21.490.220
+2. Penempatan pada Bank Indonesia 106.815.805
+3. Penempatan pada bank lain 21.188.742
+4. Tagihan spot dan derivatif/forward 939.214
+5. Surat berharga yang dimiliki 310.665.779
+6. Surat berharga yang dijual dengan janji dibeli kembali (repo) 15.167.901
+7. 23.782.944
+8. Tagihan akseptasi 9.679.831
+9. Kredit yang diberikan 1.123.640.602
+10. Pembiayaan syariah -
+11. Penyertaan modal 48.871.145
+12. Aset keuangan lainnya 23.226.765
+13. Cadangan kerugian penurunan nilai aset keuangan -/-
+a. Surat berharga yang dimiliki (2.668.264)
+b. Kredit yang diberikan dan pembiayaan syariah (80.642.094)
+c. Lainnya (397.769)
+14. Aset tidak berwujud -
+Akumulasi amortisasi aset tidak berwujud -/- -
+15. Aset tetap dan inventaris 57.325.656
+Akumulasi penyusutan aset tetap dan inventaris -/- (15.782.392)
+16. Aset non produktif
+a. Properti terbengkalai 17.380
+b. Agunan yang diambil alih 59.847
+c. Rekening tunda -
+d. Aset antar kantor 34.982
+17. Aset lainnya 33.207.322
+TOTAL ASET 1.696.623.616
+LIABILITAS DAN EKUITAS
+LIABILITAS
+1. Giro 297.019.468
+2. Tabungan 506.597.866
+3. Deposito 461.712.044
+4. Uang Elektronik 496.726
+5. Liabilitas kepada Bank Indonesia 108.569
+6. Liabilitas kepada bank lain 11.701.164
+7. Liabilitas spot dan derivatif/forward 1.406.928
+8. Liabilitas atas surat berharga yang dijual dengan janji dibeli kembali (repo) 14.129.830
+9. Liabilitas akseptasi 9.679.831
+10. Surat berharga yang diterbitkan 24.571.555
+11. Pinjaman/pembiayaan yang diterima 29.966.819
+12. Setoran jaminan 12.546
+13. Liabilitas antar kantor -
+14. Liabilitas lainnya 46.289.421
+TOTAL LIABILITAS 1.403.692.767
+No. POS - POS
+Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (reverse repo)
+LAPORAN POSISI KEUANGAN BULANAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 31 Agustus 2023
+(dalam jutaan rupiah)
+INDIVIDUAL
+31 Agustus 2023
+No. POS - POS
+EKUITAS
+15. Modal disetor
+a. Modal dasar 15.000.000
+b. Modal yang belum disetor -/- (7.422.050)
+c. Saham yang dibeli kembali (treasury stock ) -/- (2.987.829)
+16. Tambahan modal disetor
+a. Agio 76.245.954
+b. Disagio -/- -
+c. Dana setoran modal -
+d. Lainnya 37.888
+17. Penghasilan komprehensif lain
+a Keuntungan 19.999.853
+b Kerugian -/- (5.165.080)
+18. Cadangan
+a. Cadangan umum 3.022.685
+b. Cadangan tujuan -
+19. Laba/rugi
+a. Tahun-tahun lalu 159.372.471
+b. Tahun berjalan 34.826.957
+c. Dividen yang dibayarkan -/- -
+TOTAL EKUITAS 292.930.849
+TOTAL LIABILITAS DAN EKUITAS 1.696.623.616
+LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN BULANAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Untuk Periode yang Berakhir Pada Tanggal 31 Agustus 2023
+(dalam jutaan rupiah)
+INDIVIDUAL
+31 Agustus 2023
+PENDAPATAN DAN BEBAN OPERASIONAL
+1. Pendapatan Bunga 95.248.953
+2. Beban Bunga 23.685.135
+Pendapatan (Beban) Bunga Bersih 71.563.818
+B. Pendapatan dan Beban Operasional Lainnya
+1. Keuntungan (kerugian) dari peningkatan (penurunan) nilai wajar aset keuangan (1.423.596)
+2. Keuntungan (kerugian) dari penurunan (peningkatan) nilai wajar liabilitas keuangan -
+3. Keuntungan (kerugian) dari penjualan aset keuangan 1.207.257
+4. Keuntungan (kerugian) dari transaksi spot dan derivatif / forward (realised) 1.801.292
+5. Keuntungan (kerugian) dari penyertaan dengan equity method 500.476
+6. Keuntungan (kerugian) dari penjabaran transaksi valuta asing -
+7. Pendapatan dividen 95.133
+8. Pendapatan Komisi/provisi/fee dan administrasi 13.459.331
+9. Pendapatan lainnya 10.902.781
+10. Kerugian penurunan nilai aset keuangan (impairment) 17.765.657
+11. Kerugian terkait risiko operasional 22.226
+12. Beban tenaga kerja 18.307.434
+13. Beban promosi 1.287.504
+14. Beban lainnya 16.844.272
+Pendapatan (Beban) Operasional Lainnya (27.684.419)
+LABA (RUGI) OPERASIONAL 43.879.399
+PENDAPATAN (BEBAN) NON OPERASIONAL
+1. Keuntungan (kerugian) penjualan aset tetap dan inventaris 28.533
+2. Pendapatan (beban) non operasional lainnya (421.789)
+LABA (RUGI) NON OPERASIONAL (393.256)
+LABA (RUGI) TAHUN BERJALAN SEBELUM PAJAK 43.486.143
+Pajak Penghasilan
+a. Taksiran pajak tahun berjalan -/- 6.535.596
+b. Pendapatan (beban) pajak tangguhan (2.123.590)
+LABA (RUGI) BERSIH TAHUN BERJALAN 34.826.957
+No. POS-POS
+A. Pendapatan dan Beban Bunga
+LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN BULANAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Untuk Periode yang Berakhir Pada Tanggal 31 Agustus 2023
+(dalam jutaan rupiah)
+INDIVIDUAL
+31 Agustus 2023
+No. POS-POS
+PENGHASILAN KOMPREHENSIF LAIN
+1. Pos-Pos yang Tidak Akan Direklasifikasi ke Laba Rugi
+a. -
+b. (1.468.299)
+c. Lainnya 278.977
+2. Pos-Pos yang Akan Direklasifikasi ke Laba Rugi
+a.
+(107.007)
+b.
+1.760.288
+c. Lainnya (331.796)
+PENGHASILAN KOMPREHENSIF LAIN TAHUN BERJALAN SETELAH PAJAK 132.163
+TOTAL LABA (RUGI) KOMPREHENSIF TAHUN BERJALAN 34.959.120
+TRANSFER LABA/RUGI KE KANTOR PUSAT
+Keuntungan (kerugian) yang berasal dari penyesuaian akibat penjabaran laporan keuangan dalam mata
+uang asing
+Keuntungan (kerugian) dari perubahan nilai wajar aset keuangan instrumen hutang yang diukur pada
+nilai wajar melalui penghasilan komprehensif lain
+Keuntungan yang berasal dari revaluasi aset tetap
+Keuntungan (kerugian) yang berasal dari pengukuran kembali atas program pensiun manfaat pasti
+LAPORAN KOMITMEN DAN KONTINJENSI BULANAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 31 Agustus 2023
+(dalam jutaan rupiaI)
+INDIVIDUAL
+31 Agustus 2023
+I TAGIHAN KOMITMEN
+1. Fasilitas pinjaman/pembiayaan yang belum ditarik -
+2. Posisi valas yang akan diterima dari transaksi spot dan derivatif/forward 37.028.503
+3. Lainnya -
+II KEWAJIBAN KOMITMEN
+1. Fasilitas kredit/pembiayaan yang belum ditarik
+a. Committed -
+b. Uncommitted 122.262.706
+2. Irrevocable L/C yang masih berjalan 12.161.521
+3. Posisi valas yang akan diserahkan untuk transaksi spot dan derivatif/forward 89.566.960
+4. Lainnya -
+III. TAGIHAN KONTINJENSI
+1. Garansi yang diterima -
+2. Lainnya -
+IV. KEWAJIBAN KONTINJENSI
+1. Garansi yang diberikan 68.906.723
+2. Lainnya -
+No. POS-POS
+

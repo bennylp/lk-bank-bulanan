@@ -1,0 +1,649 @@
+LAPORAN POSISI KEUANGAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 30 September 2022 dan 31 Desember 2021
+(dalam jutaan rupiah)
+INDIVIDUAL KONSOLIDASIAN
+30 September 2022 31 Desember 2021 30 September 2022 31 Desember 2021
+(Direviu) (Diaudit) (Direviu) (Diaudit)
+ASET
+1. Kas 21.065.297 26.190.241 21.231.395 26.299.973
+2. Penempatan pada Bank Indonesia 109.375.684 103.217.547 110.452.328 105.149.775
+3. Penempatan pada bank lain 28.653.289 19.549.709 31.025.184 24.300.690
+4. Tagihan spot dan derivatif/forward 892.912 730.083 896.375 730.083
+5. Surat berharga yang dimiliki 317.297.008 351.582.152 336.567.395 369.630.845
+6. Surat berharga yang dijual dengan janji dibeli kembali (repo) 26.077.930 32.082.028 26.077.930 32.082.028
+7.
+13.169.162 54.265.120 13.520.530 54.915.498
+8. Tagihan akseptasi 8.493.599 9.461.677 8.616.668 9.554.238
+9. Kredit yang diberikan 1.007.118.308 943.702.693 1.054.722.713 994.416.523
+10. Pembiayaan syariah - - 9.751.566 9.159.501
+11. Piutang Sewa Pembiayaan - - 47.003.456 39.291.429
+12. Penyertaan modal 46.700.888 46.050.734 6.603.708 6.071.727
+13. Aset keuangan lainnya 17.157.297 9.677.838 23.245.207 14.824.981
+14. Cadangan kerugian penurunan nilai aset keuangan -/-
+a. Surat berharga yang dimiliki (1.917.234) (1.438.644) (1.922.904) (1.453.469)
+b. Kredit yang diberikan (87.180.615) (80.911.213) (92.789.012) (86.244.641)
+c. Lainnya (290.685) (518.381) (3.409.446) (2.109.623)
+15. Aset tidak berwujud - - 806.416 806.416
+Akumulasi amortisasi aset tidak berwujud -/- - - - -
+16. Aset tetap dan inventaris 52.820.908 47.245.040 71.474.776 65.038.484
+Akumulasi penyusutan aset tetap dan inventaris -/- (14.363.725) (13.336.745) (18.077.560) (17.068.297)
+17. Aset non produktif
+a. Properti terbengkalai 14.009 16.553 14.009 16.553
+b. Agunan yang diambil alih 66.286 63.922 71.123 69.612
+c. Rekening tunda - - - -
+d. Aset antarkantor 17.600 - 17.600 -
+18. Aset lainnya 30.592.407 25.130.681 38.704.667 32.615.408
+TOTAL ASET 1.575.760.325 1.572.761.035 1.684.604.124 1.678.097.734
+
+Berdasarkan Kolektibilitas:
+30 September 2022 31 Desember 2021
+Individual 59.736.535 63.023.353
+Kolektif
+Lancar 891.301.733 851.620.045
+Dalam perhatian khusus 38.717.439 23.489.255
+Kurang lancar 3.192.429 1.853.227
+Diragukan 5.566.869 2.868.735
+Macet 14.397.934 12.450.938
+953.176.404 892.282.200
+Total 1.012.912.939 955.305.553
+Dikurangi cadangan kerugian
+penurunan nilai:
+Individual (38.533.267) (39.835.617)
+Kolektif (50.978.995) (44.113.625)
+(89.512.262) (83.949.242)
+Bersih 923.400.677 871.356.311
+Kolektibilitas usaha gadai PT Pegadaian (entitas anak):
+30 September 2022 31 Desember 2021
+Kolektif
+Lancar 39.126.491 37.466.983
+Dalam perhatian khusus 1.329.735 1.058.743
+Kurang lancar 809.038 484.076
+Diragukan 57.776 23.275
+Macet 486.734 77.893
+Total 41.809.774 39.110.970
+Dikurangi cadangan kerugian
+penurunan nilai:
+Kolektif (1.863.674) (884.492)
+Bersih 39.946.100 38.226.478
+
+
+LIABILITAS DAN EKUITAS
+LIABILITAS
+1. Giro 245.627.925 219.397.152 245.643.656 220.590.197
+2. Tabungan 497.942.355 494.575.745 500.083.160 497.676.739
+3. Deposito 389.103.186 413.875.819 394.037.828 420.476.279
+4. Uang Elektronik 393.319 325.513 393.319 325.513
+5. Liabilitas kepada Bank Indonesia 113.096 96.996 113.096 96.996
+6. Liabilitas kepada bank lain 6.631.293 13.125.761 6.798.161 13.329.434
+7. Liabilitas spot dan derivatif/forward 1.825.437 198.369 1.825.437 199.695
+8.
+24.897.064 29.408.508 25.210.079 29.408.508
+9. Liabilitas akseptasi 8.493.599 9.461.677 8.616.668 9.554.238
+10. Surat berharga yang diterbitkan 33.537.812 30.131.995 62.354.126 55.306.697
+11. Pinjaman/Pembiayaan yang diterima 28.611.674 30.522.130 64.118.617 68.944.325
+12. Setoran jaminan 11.967 15.791 12.018 15.841
+13. Liabilitas antarkantor - - - -
+14. Liabilitas lainnya 46.568.463 45.207.950 75.062.358 70.386.468
+TOTAL LIABILITAS 1.283.757.190 1.286.343.406 1.384.268.523 1.386.310.930
+EKUITAS
+15. Modal disetor
+a. Modal dasar 15.000.000 15.000.000 15.000.000 15.000.000
+b. Modal yang belum disetor -/- (7.422.050) (7.422.050) (7.422.050) (7.422.050)
+c. Saham yang dibeli kembali (treasury stock) -/- (1.252.562) (45.997) (1.252.562) (45.997)
+16. Tambahan modal disetor
+a. Agio 76.322.752 76.324.093 76.241.557 76.242.898
+b. Disagio -/- - - - -
+c. Dana setoran modal - - - -
+d. Lainnya 226.563 226.563 1.985.202 1.988.101
+Tagihan atas surat berharga yang dibeli dengan janji dijual kembali
+(reverse repo)
+Liabilitas atas surat berharga yang dijual dengan janji dibeli kembali
+(repo)
+POS - POSNo.
+LAPORAN POSISI KEUANGAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 30 September 2022 dan 31 Desember 2021
+(dalam jutaan rupiah)
+INDIVIDUAL KONSOLIDASIAN
+30 September 2022 31 Desember 2021 30 September 2022 31 Desember 2021
+(Direviu) (Diaudit) (Direviu) (Diaudit)
+POS - POSNo.
+17. Penghasilan komprehensif lain
+a. Keuntungan 19.918.986 19.266.484 19.403.050 19.069.591
+b. Kerugian -/- (6.037.167) (1.400.069) (5.136.322) (1.106.608)
+18. Cadangan
+a. Cadangan umum 3.022.685 3.022.685 3.022.685 3.022.685
+b. Cadangan tujuan - - - -
+19. Laba/rugi
+a. Tahun-tahun lalu 155.039.317 149.230.459 155.579.760 150.919.771
+b. Tahun berjalan 37.184.611 32.215.461 39.156.233 31.066.592
+c. Dividen yang dibayarkan -/- - - - -
+292.003.135 286.417.629 296.577.553 288.734.983
+20. Kepentingan minoritas (minority interest) - - 3.758.048 3.051.821
+TOTAL EKUITAS 292.003.135 286.417.629 300.335.601 291.786.804
+TOTAL LIABILITAS DAN EKUITAS 1.575.760.325 1.572.761.035 1.684.604.124 1.678.097.734
+TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA
+PEMILIK
+LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Untuk Periode yang Berakhir Pada Tanggal 30 September 2022 dan 2021
+(dalam jutaan rupiah)
+INDIVIDUAL KONSOLIDASIAN
+30 September 2022 30 September 2021 30 September 2022 30 September 2021
+(Direviu) (Direviu)
+PENDAPATAN DAN BEBAN OPERASIONAL
+A. Pendapatan dan Beban Bunga serta Pendapatan Premi dan Beban Klaim
+1. Pendapatan Bunga 94.783.570 88.019.001 115.251.527 105.543.292
+2. Beban Bunga 15.383.992 18.339.150 18.744.235 22.585.122
+Pendapatan (Beban) Bunga Bersih 79.399.578 69.679.851 96.507.292 82.958.170
+3. Pendapatan Premi - - 6.443.929 4.959.338
+4. Beban Klaim - - 5.613.523 4.217.824
+Pendapatan Premi dan (Beban Klaim) bersih - - 830.406 741.514
+Pendapatan (Beban) Bunga Bersih serta Pendapatan Premi (Beban Klaim) Bersih 79.399.578 69.679.851 97.337.698 83.699.684
+B. Pendapatan dan Beban Operasional Lainnya
+1. Keuntungan (kerugian) dari peningkatan (penurunan) nilai wajar aset keuangan 1.433.343 (640.005) 1.484.479 (453.258)
+2. Keuntungan (kerugian) dari penurunan (peningkatan) nilai wajar liabilitas keuangan - - - -
+3. Keuntungan (kerugian) dari penjualan aset keuangan 1.154.126 2.571.395 1.249.944 2.907.069
+4. Keuntungan (kerugian) dari transaksi spot dan derivatif/forward (realised) (345.821) 1.825.143 (341.850) 1.826.837
+5. Keuntungan (kerugian) dari penyertaan dengan equity method 575.795 312.891 662.531 354.029
+6. Keuntungan (kerugian) dari penjabaran transaksi valuta asing - - 8.240 4.080
+7. Pendapatan dividen 1.521.125 40.879 5.362 5.041
+8. Komisi/provisi/fee dan administrasi 13.643.683 12.263.413 13.869.646 13.046.597
+9. Pendapatan lainnya 8.744.366 7.617.751 15.722.155 12.882.973
+10. Kerugian penurunan nilai aset keuangan (impairment) 21.401.113 25.233.635 24.626.916 28.514.198
+11. Kerugian terkait risiko operasional 248.891 426.778 210.676 426.778
+12. Beban tenaga kerja 20.948.742 21.967.055 27.749.996 28.127.380
+13. Beban promosi 1.437.332 1.164.694 1.568.294 1.257.311
+14. Beban lainnya 16.497.977 18.254.773 26.968.260 27.465.015
+Pendapatan dan (Beban) Operasional Lainnya (33.807.438) (43.055.468) (48.463.635) (55.217.314)
+LABA (RUGI) OPERASIONAL 45.592.140 26.624.383 48.874.063 28.482.370
+PENDAPATAN DAN BEBAN NON OPERASIONAL
+1. Keuntungan (kerugian) penjualan aset tetap dan inventaris 163.413 41.403 166.686 42.632
+2. Pendapatan (beban) non operasional lainnya 175.411 (113.870) 197.736 2.247
+LABA (RUGI) NON OPERASIONAL 338.824 (72.467) 364.422 44.879
+LABA (RUGI) TAHUN BERJALAN SEBELUM PAJAK 45.930.964 26.551.916 49.238.485 28.527.249
+Pajak penghasilan
+a. Taksiran pajak tahun berjalan -/- 9.339.649 9.372.108 10.988.502 10.657.439
+b. Pendapatan (beban) pajak tangguhan 593.296 3.234.783 1.061.462 3.600.912
+LABA SEBELUM LABA BERSIH PRO FORMA DARI
+TRANSAKSI AKUSISI DENGAN ENTITAS SEPENGENDALI 37.184.611 20.414.591 39.311.445 21.470.722
+LABA BERSIH PRO FORMA DARI TRANSAKSI AKUSISI
+DENGAN ENTITAS SEPENGENDALI - - - (2.400.691)
+LABA (RUGI) BERSIH TAHUN BERJALAN 37.184.611 20.414.591 39.311.445 19.070.031
+LABA (RUGI) KEPENTINGAN MINORITAS - - - -
+PENGHASILAN KOMPREHENSIF LAIN
+1. Pos-Pos yang Tidak Akan Direklasifikasi ke Laba Rugi
+a. 3.054.903 - 3.373.815 (92.566)
+b. 555.495 (470.003) 859.082 14.155
+c. Lainnya (105.544) 79.900 (172.301) (26.616)
+2. Pos-Pos yang Akan Direklasifikasi ke Laba Rugi
+a. 41.369 (20.537) 41.258 (19.725)
+b. (9.263.929) (2.396.390) (9.644.316) (2.593.619)
+c. Lainnya 1.733.110 410.638 1.774.837 424.048
+PENGHASILAN KOMPREHENSIF LAIN TAHUN BERJALAN SETELAH PAJAK (3.984.596) (2.396.392) (3.767.625) (2.294.323)
+TOTAL PENGHASILAN KOMPREHENSIF TAHUN BERJALAN SEBELUM
+LABA BERSIH PRO FORMA DARI TRANSAKSI AKUSISI
+DENGAN ENTITAS SEPENGENDALI 33.200.015 18.018.199 35.543.820 19.176.399
+PENGHASILAN KOMPREHENSIF PRO FORMA DARI
+TRANSAKSI AKUISISI DENGAN ENTITAS SEPENGENDALI - - - (2.400.691)
+TOTAL LABA (RUGI) KOMPREHENSIF TAHUN BERJALAN 33.200.015 18.018.199 35.543.820 16.775.708
+Laba (Rugi) Bersih Periode Berjalan yang dapat diatribusikan kepada :
+- Pemilik 37.184.611 20.414.591 39.156.233 19.256.250
+- Kepentingan Non Pengendali 155.212 (186.219)
+TOTAL LABA (RUGI) BERSIH PERIODE BERJALAN 37.184.611 20.414.591 39.311.445 19.070.031
+Keuntungan yang berasal dari revaluasi aset tetap
+Keuntungan (kerugian) yang berasal dari pengukuran kembali atas program pensiun
+manfaat pasti
+Keuntungan (kerugian) yang berasal dari penyesuaian akibat penjabaran laporan keuangan
+dalam mata uang asing
+Keuntungan (kerugian) dari perubahan nilai wajar aset keuangan instrumen hutang yang
+diukur pada nilai wajar melalui penghasilan komprehensif lain
+No. POS - POS
+LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Untuk Periode yang Berakhir Pada Tanggal 30 September 2022 dan 2021
+(dalam jutaan rupiah)
+INDIVIDUAL KONSOLIDASIAN
+30 September 2022 30 September 2021 30 September 2022 30 September 2021
+(Direviu) (Direviu)
+No. POS - POS
+Total Laba (Rugi) Komprehensif Tahun Berjalan yang dapat diatribusikan kepada :
+- Pemilik 33.200.015 18.018.199 35.459.978 16.955.026
+- Kepentingan Non Pengendali 83.842 (179.318)
+TOTAL LABA (RUGI) KOMPREHENSIF TAHUN BERJALAN 33.200.015 18.018.199 35.543.820 16.775.708
+TRANSFER LABA (RUGI) KE KANTOR PUSAT - - - -
+DIVIDEN - - - -
+LABA BERSIH PER SAHAM (dalam satuan rupiah) 246 164 259 154
+LAPORAN KOMITMEN DAN KONTINJENSI
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 30 September 2022 dan 31 Desember 2021
+(dalam jutaan rupiah)
+INDIVIDUAL KONSOLIDASIAN
+30 September 2022 31 Desember 2021 30 September 2022 31 Desember 2021
+(Direviu) (Diaudit) (Direviu) (Diaudit)
+I TAGIHAN KOMITMEN
+1. Fasilitas pinjaman/pembiayaan yang belum ditarik - - - -
+2. Posisi valas yang akan diterima dari transaksi spot dan derivatif/forward 15.230.168 17.676.233 15.230.168 17.676.233
+3. Lainnya - - - -
+II KEWAJIBAN KOMITMEN
+1. Fasilitas kredit/pembiayaan yang belum ditarik
+a. Committed - - 348.654 586.848
+b. Uncommitted 105.740.291 139.655.458 105.740.291 139.655.458
+2. Irrevocable L/C yang masih berjalan 10.871.425 9.685.749 10.874.100 9.687.797
+3. Posisi valas yang akan diserahkan untuk transaksi spot dan derivatif/forward 85.578.942 81.246.685 85.578.942 81.246.685
+4. Lainnya - - - -
+III. TAGIHAN KONTINJENSI
+1. Garansi yang diterima - - - -
+2. Lainnya - - - -
+IV. KEWAJIBAN KONTINJENSI
+1. Garansi yang diberikan 38.183.396 51.846.115 38.187.401 51.852.611
+2. Lainnya - - - -
+POS - POSNo.
+LAPORAN TRANSAKSI SPOT DAN DERIVATIF/FORWARD
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 30 September 2022 (Direviu)
+(dalam jutaan rupiah)
+INDIVIDUAL
+NO. TRANSAKSI Nilai Notional Tujuan Tagihan dan Liabilitas Derivatif
+Trading Hedging Tagihan Liabilitas
+A. Terkait dengan Nilai Tukar
+1 Spot 4.354.455 4.354.455 - 6.818 5.279
+2 Forward 61.074.166 61.074.166 - 76.198 998.314
+3 Option
+a. Jual - - - - -
+b. Beli 11.041 11.041 - - -
+4 Future - - - - -
+5 Swap 34.269.820 34.269.820 - 254.717 279.013
+6 Lainnya - - - - -
+B. Terkait dengan Suku Bunga
+1 Spot - - - - -
+2 Forward - - - - -
+3 Option
+a. Jual - - - - -
+b. Beli - - - - -
+4 Future - - - - -
+5 Swap 15.099.164 15.099.164 - 555.179 517.397
+6 Lainnya - - - - -
+C. Lainnya 1.032.330 1.032.330 - - 25.434
+J U M L A H 115.840.976 115.840.976 - 892.912 1.825.437
+LAPORAN KUALITAS ASET PRODUKTIF DAN INFORMASI LAINNYA
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 30 September 2022 dan 2021
+(dalam jutaan rupiah)
+INDIVIDUAL
+No. POS - POS 30 September 2022 (Direviu) 30 September 2021
+L DPK KL D M Jumlah L DPK KL D M Jumlah
+I. PIHAK TERKAIT
+1. Penempatan pada bank lain
+a. Rupiah - - - - - - - - - - - -
+b. Valuta asing - - - - - - 257.625 - - - - 257.625
+2. Tagihan spot dan derivatif/forward
+a. Rupiah - - - - - - - - - - - -
+b. Valuta asing - - - - - - - - - - - -
+3. Surat berharga yang dimiliki
+a. Rupiah - - - - - - - - - - - -
+b. Valuta asing - - - - - - - - - - - -
+4.
+a. Rupiah - - - - - - - - - - - -
+b. Valuta asing - - - - - - - - - - - -
+5.
+a. Rupiah - - - - - - - - - - - -
+b. Valuta asing - - - - - - - - - - - -
+6. Tagihan akseptasi - - - - - - - - - - - -
+7. Kredit yang diberikan dan pembiayaan yang diberikan
+a. Debitur Usaha Mikro, Kecil dan Menengah (UMKM)
+i. Rupiah - - - - - - - - - - - -
+ii. Valuta asing - - - - - - - - - - - -
+b. Bukan debitur UMKM
+i. Rupiah 198.457 - - - - 198.457 128.268 - - - - 128.268
+ii. Valuta asing - - - - - - - - - - - -
+c. Kredit yang direstrukturisasi
+i. Rupiah - - - - - - - - - - - -
+ii. Valuta asing - - - - - - - - - - - -
+8. Penyertaan modal - - - - - - - - - - - -
+9. Tagihan lainnya - - - - - - - - - - - -
+10. Komitmen dan kontinjensi
+a. Rupiah - - - - - - - - - - - -
+b. Valuta asing - - - - - - - - - - - -
+Surat berharga yang dijual dengan janji dibeli kembali
+(Repo)
+Tagihan atas surat berharga yang dibeli dengan janji dijual
+kembali (Reverse Repo)
+LAPORAN KUALITAS ASET PRODUKTIF DAN INFORMASI LAINNYA
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 30 September 2022 dan 2021
+(dalam jutaan rupiah)
+INDIVIDUAL
+No. POS - POS 30 September 2022 (Direviu) 30 September 2021
+L DPK KL D M Jumlah L DPK KL D M Jumlah
+II PIHAK TIDAK TERKAIT
+1. Penempatan pada bank lain
+a. Rupiah 132.353 - - - - 132.353 988.793 - - - - 988.793
+b. Valuta asing 28.520.936 - - - - 28.520.936 21.328.930 - - - - 21.328.930
+2. Tagihan spot dan derivatif/forward
+a. Rupiah 760.793 - - - - 760.793 828.396 - - - - 828.396
+b. Valuta asing 132.119 - - - - 132.119 257.343 - - - - 257.343
+3. Surat berharga yang dimiliki
+a. Rupiah 196.191.074 411.958 - - - 196.603.032 216.407.791 266.497 1.308 - - 216.675.596
+b. Valuta asing 120.514.422 179.554 - - - 120.693.976 134.324.669 19.011 - - - 134.343.680
+4.
+a. Rupiah 13.401.911 - - - - 13.401.911 2.814.742 - - - - 2.814.742
+b. Valuta asing 12.676.019 - - - - 12.676.019 3.761.152 - - - - 3.761.152
+5.
+a. Rupiah 13.169.162 - - - - 13.169.162 30.180.215 - - - - 30.180.215
+b. Valuta asing - - - - - - - - - - - -
+6. Tagihan akseptasi 8.396.607 96.992 - - - 8.493.599 5.772.332 29.233 - - - 5.801.565
+7. Kredit yang diberikan dan pembiayaan yang diberikan
+a. Debitur Usaha Mikro, Kecil dan Menengah (UMKM)
+i. Rupiah 531.572.420 31.611.741 2.582.488 4.806.390 11.892.219 582.465.258 469.307.300 27.033.968 2.119.285 3.843.019 8.721.376 511.024.948
+ii. Valuta asing 823.357 63.994 3.533 - 17.937 908.821 1.614.332 - - 7.441 11.570 1.633.343
+b. Bukan debitur UMKM
+i. Rupiah 311.038.198 12.159.046 390.955 2.213.524 7.361.127 333.162.850 313.830.556 12.340.186 667.002 1.916.606 6.951.528 335.705.878
+ii. Valuta asing 80.584.946 7.464.964 133.237 324.613 1.875.162 90.382.922 70.655.251 5.506.281 1.288.380 1.290.142 3.818.543 82.558.597
+c. Kredit yang direstrukturisasi
+i. Rupiah 105.733.679 25.172.124 1.834.672 5.099.927 10.767.195 148.607.597 158.171.774 25.379.422 1.787.820 4.430.119 9.158.375 198.927.510
+ii. Valuta asing 5.514.146 7.179.594 3.533 322.428 1.738.410 14.758.111 4.890.387 3.742.801 1.287.453 1.297.033 3.670.989 14.888.663
+8. Penyertaan modal 46.700.888 - - - - 46.700.888 68.210.920 - - - - 68.210.920
+9. Tagihan lainnya - - - - - - - - - - - -
+10. Komitmen dan kontinjensi
+a. Rupiah 80.770.019 504.878 19.882 1.455 8.081 81.304.315 99.830.532 1.109.270 2.034 4.704 582.533 101.529.073
+b. Valuta asing 73.487.646 3.151 - - - 73.490.797 62.159.313 408.335 189.988 12.172 1.878 62.771.686
+III INFORMASI LAIN
+1. Total aset bank yang dijaminkan :
+a. Pada Bank Indonesia - -
+b. Pada pihak lain - -
+2. Agunan yang diambil alih 66.286 65.097
+Tagihan atas surat berharga yang dibeli dengan janji dijual
+kembali (Reverse Repo)
+Surat berharga yang dijual dengan janji dibeli kembali
+(Repo)
+LAPORAN PERHITUNGAN KEWAJIBAN PENYEDIAAN MODAL MINIMUM (KPMM) BANK UMUM KONVENSIONAL
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 30 September 2022 dan 2021
+(dalam jutaan rupiah)
+30 September 2022 30 September 2021
+Individual Konsolidasian Individual Konsolidasian
+(Direviu) (Direviu)
+I Modal Inti (Tier 1) 233.846.698 270.797.785 221.387.421 253.111.906
+1 CET 1 233.846.698 270.797.785 221.387.421 253.111.906
+1.1 Modal Disetor (setelah dikurangi Treasury Stock) 6.325.388 6.325.388 8.297.150 8.297.150
+1.2 Cadangan Tambahan Modal 285.398.714 286.425.130 288.857.412 267.620.171
+1.2.1 Faktor Penambah 291.488.351 292.488.781 288.985.022 268.373.406
+1.2.1.1 Pendapatan komprehensif lainnya 19.918.986 20.195.338 20.199.332 28.357.825
+1.2.1.1.1 Selisih lebih penjabaran laporan keuangan - - - -
+1.2.1.1.2 - - 3.335.249 3.373.795
+1.2.1.1.3 Saldo surplus revaluasi aset tetap 19.918.986 20.195.338 16.864.083 24.984.030
+1.2.1.2 Cadangan tambahan modal lainnya (other disclosed reserves) 271.569.365 272.293.443 268.785.690 240.015.581
+1.2.1.2.1 Agio 76.322.752 76.241.557 96.117.956 68.167.658
+1.2.1.2.2 3.022.685 3.022.685 3.022.685 3.022.685
+1.2.1.2.3 Laba tahun-tahun lalu 155.039.317 154.034.725 149.230.458 147.514.774
+1.2.1.2.4 Laba periode berjalan 37.184.611 38.994.476 20.414.591 21.296.390
+1.2.1.2.5 Dana setoran modal - - - -
+1.2.1.2.6 Lainnya - - - 14.074
+1.2.2 Faktor Pengurang 6.089.637 6.063.651 127.610 753.235
+1.2.2.1 Pendapatan komprehensif lainnya 5.203.571 5.254.603 75.047 74.474
+1.2.2.1.1 Selisih kurang penjabaran laporan keuangan 75.153 74.717 75.047 74.474
+1.2.2.1.2 Potensi kerugian dari penurunan nilai wajar aset keuangan yang diukur pada nilai wajar melalui penghasilan komprehensif lain 5.128.418 5.179.886 - -
+1.2.2.2 Cadangan tambahan modal lainnya (other disclosed reserves) 886.066 809.048 52.563 678.761
+1.2.2.2.1 Disagio - - - -
+1.2.2.2.2 Rugi tahun-tahun lalu - - - -
+1.2.2.2.3 Rugi periode berjalan - - - -
+1.2.2.2.4 - - - -
+1.2.2.2.5 Selisih kurang jumlah penyesuaian nilai wajar dari instrumen keuangan dalam Trading Book - - - -
+1.2.2.2.6 52.470 53.677 52.563 59.147
+1.2.2.2.7 Lainnya 833.596 755.371 - 619.614
+1.3 Kepentingan Non-Pengendali yang dapat diperhitungkan - 462.236 - 438.902
+1.4 Faktor Pengurang Modal Inti Utama 57.877.404 22.414.969 75.767.141 23.244.317
+1.4.1 Pajak tangguhan 15.745.256 18.550.568 11.364.024 13.211.582
+1.4.2 Goodwill - 806.416 - 806.416
+1.4.3 Aset tidak berwujud - - - -
+1.4.4 Penyertaan yang diperhitungkan sebagai faktor pengurang 42.132.148 3.057.985 64.403.117 9.226.319
+1.4.5 Kekurangan modal pada perusahaan anak asuransi - - - -
+1.4.6 Eksposur sekuritisasi - - - -
+1.4.7 Faktor pengurang modal inti utama lainnya - - - -
+2 Modal Inti Tambahan/Additional Tier 1 (AT 1) - - - -
+2.1 Instrumen yang memenuhi persyaratan AT 1 - - - -
+2.2 Agio/Disagio - - - -
+2.3 Faktor Pengurang Modal Inti Tambahan - - - -
+2.3.1 Penempatan dana pada instrumen AT 1 dan/atau Tier 2 pada bank lain - - - -
+2.3.2 Kepemilikan silang pada entitas lain yang diperoleh berdasarkan peralihan karena hukum, hibah, atau hibah wasiat - - - -
+KOMPONEN MODAL
+Potensi keuntungan dari peningkatan nilai wajar aset keuangan yang diukur pada nilai wajar melalui penghasilan komprehensif lain
+Cadangan umum
+Selisih kurang antara Penyisihan Penilaian Kualitas Aset (PPKA) dan Cadangan Kerugian Penurunan Nilai (CKPN) atas aset produktif
+PPKA non-produktif
+LAPORAN PERHITUNGAN KEWAJIBAN PENYEDIAAN MODAL MINIMUM (KPMM) BANK UMUM KONVENSIONAL
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 30 September 2022 dan 2021
+(dalam jutaan rupiah)
+30 September 2022 30 September 2021
+Individual Konsolidasian Individual Konsolidasian
+(Direviu) (Direviu)
+KOMPONEN MODAL
+II Modal Pelengkap (Tier 2) 10.141.692 10.779.606 9.550.035 10.207.539
+1 Instrumen modal dalam bentuk saham atau lainnya yang memenuhi persyaratan Tier 2 75.000 75.000 175.000 175.000
+2 Agio/Disagio - - - -
+3 Cadangan umum PPKA atas aset produktif yang wajib dihitung (paling tinggi 1,25% ATMR Risiko Kredit) 10.066.692 10.737.849 9.375.035 10.066.859
+4 Faktor Pengurang Modal Pelengkap - 33.243 - 34.320
+4.1 Sinking Fund - - - -
+4.2 Penempatan dana pada instrumen Tier 2 pada bank lain - 33.243 - 34.320
+4.3 Kepemilikan silang pada entitas lain yang diperoleh berdasarkan peralihan karena hukum, hibah, atau hibah wasiat - - - -
+TOTAL MODAL 243.988.390 281.577.391 230.937.456 263.319.445
+30 September 2022 30 September 2021 30 September 2022 30 September 2021
+Individual Konsolidasian Individual Konsolidasian Individual Konsolidasian Individual Konsolidasian
+(Direviu) (Direviu) (Direviu) (Direviu)
+ASET TERTIMBANG MENURUT RISIKO RASIO KPMM
+ATMR RISIKO KREDIT 804.313.920 858.006.457 748.650.367 803.996.285 Rasio CET 1 (%) 23,00% 25,14% 23,36% 24,97%
+ATMR RISIKO PASAR 2.335.744 4.180.508 7.737.428 10.554.179 Rasio Tier 1 (%) 23,00% 25,14% 23,36% 24,97%
+ATMR RISIKO OPERASIONAL 209.879.369 214.875.481 191.178.694 199.281.257 Rasio Tier 2 (%) 1,00% 1,00% 1,01% 1,01%
+TOTAL ATMR 1.016.529.033 1.077.062.446 947.566.489 1.013.831.721 Rasio KPMM (%) 24,00% 26,14% 24,37% 25,98%
+RASIO KPMM SESUAI PROFIL RISIKO (%) 9,51% 9,52% 9,60% 9,60% CET 1 UNTUK BUFFER (%) 14,49% 16,62% 14,77% 16,38%
+5,000% 5,000% 2,500% 2,500%
+Dari CET 1 (%) 8,51% 8,52% 8,59% 8,59% Capital Conservation Buffer (%) 2,500% 2,500% 0,000% 0,000%
+Dari AT 1 (%) 0,00% 0,00% 0,00% 0,00% Countercyclical Buffer (%) 0,000% 0,000% 0,000% 0,000%
+Dari Tier 2 (%) 1,00% 1,00% 1,01% 1,01% Capital Surcharge untuk Bank Sistemik (%) 2,500% 2,500% 2,500% 2,500%
+ALOKASI PEMENUHAN KPMM SESUAI PERSENTASE BUFFER YANG WAJIB DIPENUHI OLEH BANK (%)
+LAPORAN RASIO KEUANGAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 30 September 2022 dan 2021
+(dalam %)
+30 September 2022 30 September 2021
+(Direviu)
+Rasio Kinerja
+1. Kewajiban Penyediaan Modal Minimum (KPMM) 24,00 24,37
+2. Aset produktif bermasalah dan aset non- produktif bermasalah terhadap total aset produktif dan
+aset non-produktif 1,98 1,99
+3. Aset produktif bermasalah terhadap total aset produktif 1,97 1,99
+4. Cadangan Kerugian Penurunan Nilai (CKPN) aset keuangan terhadap aset produktif 6,51 6,19
+5. NPL gross 3,14 3,29
+6. NPL net 0,87 0,86
+7. Return on Asset (ROA) 3,97 2,52
+8. Return on Equity (ROE) 22,00 15,28
+9. Net Interest Margin (NIM) 7,23 6,86
+10. Beban Operasional terhadap Pendapatan Operasional (BOPO) 62,59 76,37
+11. Cost to Income Ratio (CIR) 38,99 42,07
+12. Loan to Deposit Ratio (LDR) 88,92 83,05
+Kepatuhan (Compliance)
+1. a. Persentase pelanggaran BMPK
+i. Pihak terkait 0,00 0,00
+ii. Pihak tidak terkait 0,00 0,00
+b. Persentase pelampauan BMPK
+i. Pihak terkait 0,00 0,00
+ii. Pihak tidak terkait 0,00 0,00
+2. GWM
+a. GWM utama rupiah
+- Harian 0,00 0,50
+- Rata-rata 7,55 3,60
+b. GWM valuta asing (harian) 2,00 2,00
+3. Posisi Devisa Neto (PDN) secara keseluruhan 0,34 1,92
+Rasio
+LAPORAN ARUS KAS
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Untuk Periode yang Berakhir Pada Tanggal 30 September 2022 dan 2021
+(Dalam Jutaan Rupiah)
+KONSOLIDASIAN
+30 September 2022 30 September 2021
+(Direviu)
+ARUS KAS DARI KEGIATAN OPERASI
+Pendapatan yang diterima
+Penerimaan bunga dan investasi 107.094.913 100.585.234
+Pendapatan syariah 1.702.643 1.754.224
+Pendapatan premi 6.443.929 4.959.338
+Beban yang dibayar
+Beban bunga (18.090.745) (22.364.001)
+Beban syariah (782.062) (362.326)
+Beban klaim (5.613.523) (4.217.824)
+Penerimaan kembali aset yang telah dihapusbukukan 8.696.285 6.532.384
+Pendapatan operasional lainnya 24.883.912 24.575.344
+Beban operasional lainnya (56.927.293) (50.626.742)
+Pendapatan (beban) non operasional - neto 231.148 16.986
+Pembayaran pajak atas penghasilan badan (12.306.549) (6.079.054)
+Arus kas sebelum perubahan dalam aset dan liabilitas operasi 55.332.658 54.773.563
+Perubahan dalam aset dan liabilitas operasi:
+(Kenaikan) penurunan aset operasi:
+Penempatan pada Bank Indonesia dan bank lain 266.481 3.830.458
+1.458.138 3.823.228
+Wesel ekspor dan tagihan lainnya (15.544.620) (1.379.917)
+Efek-efek yang dibeli dengan janji dijual kembali 41.394.968 15.962.849
+Kredit yang diberikan (76.380.310) (51.617.010)
+Pinjaman syariah (592.065) 39.646.444
+Piutang sewa pembiayaan (7.712.026) (8.057.236)
+Aset lain-lain (1.329.215) (7.963.123)
+Kenaikan (penurunan) liabilitas operasi:
+Liabilitas segera 246.811 (5.670.661)
+Simpanan:
+Giro 25.053.459 21.594.980
+Giro Wadiah - (6.258.078)
+Tabungan 2.406.420 9.485.101
+Tabungan Wadiah - (9.247.604)
+Deposito berjangka (26.438.451) 32.305.406
+Simpanan dari bank lain dan lembaga keuangan lainnya (6.531.268) (19.312.251)
+Efek-efek yang dijual dengan janji dibeli kembali (4.198.429) (33.931.790)
+Liabilitas lain-lain 7.457.996 7.856.521
+Dana Syirkhah Temporer - (33.496.976)
+Kas Neto yang Diperoleh dari (Digunakan untuk) Kegiatan Operasi (5.109.453) 12.343.904
+ARUS KAS DARI KEGIATAN INVESTASI
+Hasil penjualan aset tetap 169.368 39.471
+Penambahan Penyertaan saham (108.436) (396.586)
+Penerimaan dividen 137.708 4.347
+Perolehan aset tetap (7.742.096) (4.861.957)
+45.545.601 (33.319.433)
+Kas Neto yang Diperoleh dari (Digunakan Untuk) Kegiatan Investasi 38.002.145 (38.534.158)
+Efek-efek yang diukur pada nilai wajar melalui laporan laba rugi
+Kenaikan (Penurunan) efek-efek dan Obligasi Rekapitalisasi Pemerintah yang diklasifikasikan sebagai nilai wajar
+melalui penghasilan komprehensif lain dan Biaya perolehan diamortisasi
+POS - POS
+LAPORAN ARUS KAS
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Untuk Periode yang Berakhir Pada Tanggal 30 September 2022 dan 2021
+(Dalam Jutaan Rupiah)
+KONSOLIDASIAN
+30 September 2022 30 September 2021
+(Direviu)
+POS - POS
+ARUS KAS DARI KEGIATAN PENDANAAN
+Penerimaan (pembayaran) pinjaman yang diterima (4.527.763) (9.996.351)
+Saham yang dibeli kembali (1.237.928) -
+Penambahan modal - 41.059.206
+Pembagian laba untuk dividen (26.406.603) (12.125.589)
+Penerimaan atas surat berharga yang diterbitkan 17.172.831 3.686.830
+Pembayaran atas surat berharga yang jatuh tempo (11.036.786) (4.374.500)
+Kas Neto yang Diperoleh dari (Digunakan untuk) Kegiatan Pendanaan (26.036.249) 18.249.596
+PENURUNAN NETO KAS DAN SETARA KAS 6.856.443 (7.940.658)
+PENGARUH PERUBAHAN KURS MATA UANG ASING 369.016 22.500
+KAS DAN SETARA KAS AWAL TAHUN 153.924.601 170.478.447
+KAS DAN SETARA KAS AKHIR TAHUN 161.150.060 162.560.289
+Kas dan setara kas akhir tahun terdiri dari:
+Kas 21.231.395 19.161.886
+Giro pada Bank Indonesia 86.347.213 49.170.835
+Giro pada bank lain 14.785.646 18.617.542
+38.785.806 75.610.026
+Total Kas dan Setara Kas 161.150.060 162.560.289
+Penempatan pada Bank Indonesia dan bank lain - jangka waktu jatuh tempo tiga bulan atau kurang sejak tanggal
+perolehan
+CADANGAN KERUGIAN PENURUNAN NILAI DAN PENYISIHAN PENILAIAN KUALITAS ASET
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 30 September 2022 dan 2021
+(dalam jutaan rupiah)
+30 September 2022 (Direviu) 30 September 2021
+No. POS-POS CKPN PPKA wajib dibentuk CKPN PPKA wajib dibentuk
+Stage 1 Stage 2 Stage 3 Umum Khusus Stage 1 Stage 2 Stage 3 Umum Khusus
+1. Penempatan pada bank lain 35.773 - - 286.533 - 76.509 - - 225.753 -
+2. Tagihan spot dan derivatif/forward - - - 8.929 - - - - 10.857 -
+3. Surat berharga yang dimiliki 1.392.407 524.827 - 666.033 29.576 1.360.955 188.537 1.308 619.255 14.472
+4. - - - 260.779 - - - - 65.759 -
+5.
+- - - - - - - - - -
+6. Tagihan akseptasi 174.333 80.579 - 83.966 4.850 189.070 16.759 - 57.723 1.462
+7. Kredit yang diberikan 21.722.838 42.505.048 22.952.729 9.242.174 27.850.228 23.918.392 32.702.520 22.936.977 8.555.357 25.886.843
+8. Penyertaan modal - - - 49.591 - - - - 43.108 -
+9. Tagihan lainnya - - - - - - - - - -
+10. Komitmen dan kontinjensi 826.092 4.094.354 16.158 490.148 37.191 1.818.627 4.442.435 17.695 586.271 697.533
+Surat berharga yang dijual dengan janji dibeli kembali (Repo )
+Tagihan atas surat berharga yang dibeli dengan janji dijual kembali
+(Reverse Repo )
+PENGURUS BANK PEMEGANG SAHAM
+DEWAN KOMISARIS Pemegang Saham Pengendali (PSP) :
+- Komisaris Utama : Kartika Wirjoatmodjo Ultimate shareholder :
+- Wakil Komisaris Utama/ - Negara Republik Indonesia : 53,19%
+Komisaris Independen : Rofikoh Rokhim
+- Komisaris Independen : Hendrikus Ivo Pemegang Saham Bukan PSP melalui pasar modal (≥ 5%) :
+- Komisaris Independen : Agus Riswanto - Tidak ada
+- Komisaris Independen : Dwi Ria Latifa
+- Komisaris Independen : Nurmaria Sarosa
+- Komisaris Independen : Heri Sunaryadi Pemegang Saham Bukan PSP tidak melalui pasar modal (≥ 5%) :
+- Komisaris Independen : Paripurna Poerwoko Sugarda - Tidak ada
+- Komisaris : Hadiyanto
+- Komisaris : Rabin Indrajad Hattari
+DIREKSI
+- Direktur Utama : Sunarso
+- Wakil Direktur Utama : Catur Budi Harto Jakarta, 16 November 2022
+- Direktur Bisnis Kecil dan Menengah : Amam Sukriyanto Direksi PT Bank Rakyat Indonesia (Persero) Tbk
+- Direktur Bisnis Mikro : Supari
+- Direktur Bisnis Konsumer : Handayani
+- Direktur Jaringan dan Layanan : Andrijanto
+- Direktur Keuangan : Viviana Dyah Ayu R. K.
+- Direktur Digital dan Teknologi Informasi : Arga Mahanana Nugraha
+- Direktur Bisnis Wholesale dan Kelembagaan : Agus Noorsanto
+- Direktur Human Capital : Agus Winardono
+- Direktur Manajemen Risiko : Agus Sudiarto Sunarso Viviana Dyah Ayu R. K.
+- Direktur Kepatuhan : Ahmad Solichin Lutfiyanto Direktur Utama Direktur
+Catatan :
+1.
+2. Informasi keuangan di atas disajikan sesuai dengan hal-hal sebagai berikut :
+a.
+b.
+c.
+3.
+4.
+5.
+Informasi keuangan konsolidasian interim di atas diambil dari laporan keuangan konsolidasian interim PT Bank Rakyat Indonesia (Persero) Tbk ("Bank") dan Entitas
+Anaknya tanggal 30 September 2022 dan untuk periode sembilan bulan yang berakhir pada tanggal tersebut, yang disusun oleh manajemen Bank sesuai dengan
+Standar Akuntansi Keuangan di Indonesia, yang telah direviu oleh Kantor Akuntan Publik Purwantono, Sungkoro & Surja ("PSS") (firma anggota Ernst & Young Global
+Limited) dengan rekan penanggungjawab adalah Christophorus Alvin Kossim, berdasarkan Standar Perikatan Reviu 2410, “Reviu Informasi Keuangan Interim yang
+Dilaksanakan oleh Auditor Independen Entitas”, yang ditetapkan oleh Institut Akuntan Publik Indonesia, dengan opini reviu tidak ada hal-hal yang menjadi perhatian
+PSS yang menyebabkan PSS percaya bahwa laporan keuangan konsolidasian interim tersebut tidak menyajikan secara wajar, dalam semua hal yang material, posisi
+keuangan konsolidasian Bank dan Entitas Anaknya tanggal 30 September 2022, serta kinerja keuangan dan arus kas konsolidasian untuk periode sembilan bulan yang
+berakhir pada tanggal tersebut sesuai dengan Standar Akuntansi Keuangan di Indonesia, sebagaimana tercantum dalam laporannya tanggal 15 November 2022 yang
+tidak tercantum dalam publikasi ini. Karena informasi keuangan konsolidasian di atas diambil dari laporan keuangan konsolidasian, dengan demikian informasi tersebut
+bukan merupakan penyajian yang lengkap dari laporan keuangan konsolidasian. Sebagai angka koresponding, informasi keuangan interim untuk periode sembilan
+bulan yang berakhir pada tanggal 30 September 2021 tidak diaudit dan tidak direviu. Oleh karena itu, PSS tidak menyatakan suatu opini, kesimpulan, maupun bentuk
+keyakinan lainnya atas Informasi Keuangan Konsolidasian 30 September 2021 maupun Informasi Keuangan Entitas Induk 30 September 2021.
+Laporan keuangan publikasi di atas disajikan untuk memenuhi Peraturan Otoritas Jasa Keuangan (POJK) Nomor 37/POJK.03/2019 tanggal 19 Desember 2019
+tentang Transparansi dan Publikasi Laporan Bank dan Surat Edaran Otoritas Jasa Keuangan Nomor 9/SEOJK.03/2020 tanggal 30 Juni 2020 tentang Transparansi
+dan Publikasi Laporan Bank Umum Konvensional.
+Peraturan No. VIII.G.7, Lampiran Keputusan Ketua Badan Pengawas Pasar Modal dan Lembaga Keuangan Nomor KEP-347/BL/2012 tanggal 25 Juni 2012 tentang
+"Penyajian dan Pengungkapan Laporan Keuangan Emiten atau Perusahaan Publik".
+Laba bersih per saham dasar dihitung dengan membagi laba periode sembilan bulan yang berakhir pada tanggal 30 September 2022 yang dapat diatribusikan kepada
+pemilik Entitas Induk dengan rata-rata tertimbang jumlah lembar saham biasa yang beredar selama periode yang bersangkutan.
+Nilai tukar mata uang asing untuk 1 USD per tanggal 30 September 2022, 31 Desember 2021 dan 30 September 2021 adalah masing-masing sebesar Rp15.227,50,
+Rp14.252,50 dan Rp14.312,50.
+Peraturan Nomor X.K.2, Lampiran Keputusan Ketua Badan Pengawas Pasar Modal dan Lembaga Keuangan Nomor KEP-346/BL/2011 tanggal 5 Juli 2011 tentang
+"Penyampaian Laporan Keuangan Berkala Emiten atau Perusahaan Publik".
+Pada tanggal 13 September 2021, Bank telah mengakuisisi saham PT Pegadaian (“Pegadaian”) sebesar 99,99% dari total saham yang dikeluarkan Pegadaian dari
+modal ditempatkan dan disetor penuh dalam Pegadaian dan PT Permodalan Nasional Madani (“PNM”), sebesar 99,99% modal ditempatkan dan disetor penuh dalam
+PNM. Transaksi antara entitas sepengendali ini dicatat berdasarkan PSAK No. 38 ”Kombinasi Bisnis Entitas Sepengendali” dimana unsur-unsur laporan keuangan dari
+PNM dan Pegadaian, untuk periode komparatif sajian laporan keuangan konsolidasian BRI yaitu untuk periode yang berakhir pada tanggal 30 September 2021,
+disajikan kembali seolah-olah penggabungan tersebut telah terjadi sejak 1 Januari 2021, PNM dan Pegadaian telah bergabung dalam sepengendalian.
+

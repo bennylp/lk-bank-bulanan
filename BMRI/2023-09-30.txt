@@ -1,0 +1,171 @@
+LAPORAN POSISI KEUANGAN (NERACA) BULANAN
+PT BANK MANDIRI (PERSERO) Tbk.
+Tanggal 30 September 2023
+(dalam jutaan)
+POS-POS NOMINAL
+ASET
+1.Kas 18.594.686
+2.Penempatan pada Bank Indonesia 101.706.930
+3.Penempatan pada bank lain 35.477.137
+4.Tagihan spot dan derivatif /forward 2.775.641
+5.Surat berharga yang dimiliki 256.286.028
+6.Surat berharga yang dijual dengan janji dibeli kembali (repo ) 26.864.849
+7.Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (reverse repo ) 5.012.966
+8.Tagihan akseptasi 12.736.294
+9.Kredit yang diberikan 1.016.043.397
+10.Pembiayaan syariah -
+11.Penyertaan Modal 15.068.656
+12.Aset Keuangan Lainnya 38.979.355
+13.Cadangan kerugian penurunan nilai aset keuangan -/- 49.205.838
+a. Surat berharga yang dimiliki 11.213
+b. Kredit yang diberikan dan pembiayaan syariah 46.703.333
+c. Lainnya 2.491.292
+14.Aset tidak berwujud 9.745.950
+Akumulasi amortisasi aset tidak berwujud -/- 6.187.902
+15.Aset tetap dan inventaris 67.911.543
+Akumulasi penyusutan aset tetap dan inventaris -/- 17.631.237
+16.Aset Non Produktif 2.471.169
+a.Properti terbengkalai -
+b.Aset yang diambil alih -
+c.Rekening tunda 2.471.169
+d.Aset antarkantor -
+17.Aset Lainnya 22.890.610
+TOTAL ASET 1.559.540.234
+LAPORAN POSISI KEUANGAN (NERACA) BULANAN
+PT BANK MANDIRI (PERSERO) Tbk.
+Tanggal 30 September 2023
+(dalam jutaan)
+POS-POS NOMINAL
+
+Berdasarkan jenis dan kolektibilitas Bank Indonesia:
+30 September 2023
+Dalam
+perhatian Kurang
+Lancar khusus lancar Diragukan Macet Total
+Rupiah
+Modal kerja 289.665.816 16.863.135 1.223.138 3.370.145 2.614.990 313.737.224
+Konsumen 270.490.729 12.289.925 1.573.324 1.821.246 1.439.929 287.615.153
+Investasi*) 241.593.260 8.442.506 517.853 898.480 486.785 251.938.884
+Program pemerintah 78.878.986 2.583.625 360.907 463.433 285.665 82.572.616
+Sindikasi 53.199.919 553.493 - - - 53.753.412
+Karyawan 43.344.551 245.529 - 724 12.059 43.602.863
+Ekspor 6.036.695 41.073 - 16.066 22.460 6.116.294
+Total 983.209.956 41.019.286 3.675.222 6.570.094 4.861.888 1.039.336.446
+Mata uang asing
+Investasi 115.533.737 5.334.237 - 871.400 72.053 121.811.427
+Sindikasi**) 64.114.647 3.504.920 352.767 - 80 67.972.414
+Modal kerja 32.288.437 4.475.749 - 562.906 2.153.697 39.480.789
+Ekspor 10.144.122 - - - 12.769 10.156.891
+Konsumen 2.156.183 432 - - 95 2.156.710
+Total (Catatan 63.B.(iv)) 224.237.126 13.315.338 352.767 1.434.306 2.238.694 241.578.231
+
+LIABILITAS DAN EKUITAS
+LIABILITAS
+1.Giro 465.745.825
+2.Tabungan 440.789.615
+3.Deposito 244.191.729
+4.Uang elektronik 1.796.547
+5.Liabilitas kepada Bank Indonesia -
+6.Liabilitas kepada bank lain 14.198.662
+7.Liabilitas spot dan derivatif /forward 2.203.559
+8.Liabilitas atas surat berharga yang dijual dengan janji dibeli kembali (repo ) 25.497.139
+9.Liabilitas akseptasi 12.736.294
+10.Surat berharga yang diterbitkan 40.929.777
+11.Pinjaman/pembiayaan yang diterima 50.555.120
+12.Setoran jaminan 1.274.857
+13.Liabilitas antarkantor 19.465
+14.Liabilitas lainnya 37.807.536
+TOTAL LIABILITAS 1.337.746.125
+EKUITAS
+15.Modal disetor 11.666.667
+a. Modal dasar 16.000.000
+b. Modal yang belum disetor -/- 4.333.333
+c. Saham yang dibeli kembali (treasury stock ) -/- -
+16.Tambahan modal disetor 18.941.550
+a. Agio 18.941.550
+b. Disagio -/- -
+c. Dana setoran modal -
+d. Lainnya -
+17.Penghasilan komprehensif lainnya 32.269.945
+a. Keuntungan 36.028.874
+b. Kerugian (-/-) 3.758.929
+18.Cadangan 2.333.333
+a. Cadangan umum 2.333.333
+b. Cadangan tujuan -
+19.Laba/rugi 156.582.614
+a. Tahun-tahun lalu 145.348.353
+b. Tahun berjalan 35.936.643
+c. Dividen yang dibayarkan (-/-) 24.702.382
+TOTAL EKUITAS 221.794.109
+TOTAL LIABILITAS DAN EKUITAS 1.559.540.234
+LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN BULANAN
+PT BANK MANDIRI (PERSERO) Tbk.
+Tanggal 30 September 2023
+(dalam jutaan)
+POS-POS NOMINAL
+PENDAPATAN DAN BEBAN OPERASIONAL
+A. Pendapatan dan Beban Bunga
+1. Pendapatan Bunga 72.293.848
+2. Beban Bunga 18.895.041
+Pendapatan (Beban) Bunga bersih 53.398.807
+B. Pendapatan dan Beban Operasional selain Bunga
+1. Keuntungan (kerugian) dari peningkatan (penurunan) nilai wajar aset keuangan 1.197.309
+2. Keuntungan (kerugian) dari penurunan (peningkatan) nilai wajar liabilitas keuangan -
+3. Keuntungan (kerugian) dari penjualan aset keuangan 807.669
+4. Keuntungan (kerugian) dari transaksi spot dan derivatif/forward (realised) 65.423
+5. Keuntungan (kerugian) dari penyertaan dengan equity method -
+6. Keuntungan (kerugian) dari penjabaran transaksi valuta asing -
+7. Pendapatan dividen 1.083.443
+8. Komisi/provisi/fee dan administrasi 11.543.251
+9. Pendapatan lainnya 6.755.084
+10. Kerugian penurunan nilai aset keuangan (impairment) 5.307.480
+11. Kerugian terkait risiko operasional 3.614
+12. Beban tenaga kerja 11.577.210
+13. Beban promosi 859.323
+14. Beban lainnya 12.965.720
+Pendapatan (Beban) Operasional Lainnya (9.261.168)
+LABA (RUGI) OPERASIONAL 44.137.639
+PENDAPATAN (BEBAN) NON OPERASIONAL
+1. Keuntungan (kerugian) penjualan aset tetap dan inventaris 1.697
+2. Pendapatan (beban) non operasional lainnya 37.842
+LABA (RUGI) NON OPERASIONAL 39.539
+LABA (RUGI) TAHUN BERJALAN SEBELUM PAJAK 44.177.178
+3. Pajak Penghasilan 8.240.535
+a. Taksiran pajak tahun berjalan (-/-) 7.236.844
+b. (Pendapatan) beban pajak tangguhan 1.003.691
+LABA (RUGI) BERSIH TAHUN BERJALAN 35.936.643
+PENGHASILAN KOMPREHENSIF LAIN
+1. Pos-pos yang tidak akan direklasifikasi ke laba rugi -
+a. Keuntungan yang berasal dari revaluasi aset tetap -
+b. Keuntungan (kerugian) yang berasal dari pengukuran kembali atas program pensiun manfaat pasti -
+c. Lainnya -
+2. Pos-pos yang akan direklasifikasi ke laba rugi (682.741)
+a. Keuntungan (kerugian) yang berasal dari penyesuaian akibat penjabaran laporan keuangan dalam mata uang asing 469
+b. Keuntungan (kerugian) dari perubahan nilai aset keuangan yang diukur pada nilai wajar melalui penghasilan komprehensif lain (683.210)
+c. Lainnya -
+PENGHASILAN KOMPREHENSIF LAIN TAHUN BERJALAN - SETELAH PAJAK (682.741)
+TOTAL LABA (RUGI) KOMPREHENSIF TAHUN BERJALAN 35.253.902
+TRANSFER LABA (RUGI) KE KANTOR PUSAT -
+LAPORAN KOMITMEN DAN KONTINJENSI BULANAN
+PT BANK MANDIRI (PERSERO) Tbk.
+Tanggal 30 September 2023
+(dalam jutaan)
+POS-POS NOMINAL
+I. TAGIHAN KOMITMEN 235.861.393
+1. Fasilitas pinjaman/pembiayaan yang belum ditarik -
+2. Posisi valas yang akan diterima dari transaksi spot dan derivatif / forward 235.861.393
+3. Lainnya -
+II. KEWAJIBAN KOMITMEN 473.204.592
+1. Fasilitas kredit/pembiayaan kepada nasabah yang belum ditarik 219.451.869
+a. Committed 55.327.844
+b. Uncommitted 164.124.025
+2. Irrevocable L/C yang masih berjalan 17.907.214
+3. Posisi valas yang akan diserahkan untuk transaksi spot dan derivatif/forward 235.845.509
+4. Lainnya -
+III.TAGIHAN KONTINJENSI 27.105.077
+1. Garansi yang diterima 27.070.733
+2. Lainnya 34.344
+IV.KEWAJIBAN KONTINJENSI 125.213.570
+1. Garansi yang diberikan 122.190.436
+2. Lainnya 3.023.134
+

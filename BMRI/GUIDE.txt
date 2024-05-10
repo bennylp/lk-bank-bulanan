@@ -1,0 +1,8 @@
+BMRI:
+Kalau memasukkan teks kolektibilitas, formatnya berubah sejak Des'23, jadi
+setelah copas:
+1. Join line 1 "Berdasarkan jenis dan kolektibilitas Bank Indonesia:"
+2. Ganti "Rupiah Rupiah" jadi "Rupiah"
+3. Hilangkan ekstra teks setelah "Total"
+4. Ganti "Mata uang asing Foreign currencies" jadi "Mata uang asing"
+5. Hilangkan ekstra teks setelah "Total (Catatan.."

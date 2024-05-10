@@ -1,0 +1,173 @@
+LAPORAN POSISI KEUANGAN BULANAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 31 Januari 2022
+(dalam jutaan rupiah)
+INDIVIDUAL
+31 Januari 2022
+ASET
+1. Kas 39.915.115
+2. Penempatan pada Bank Indonesia 78.574.311
+3. Penempatan pada bank lain 25.383.320
+4. Tagihan spot dan derivatif/forward 455.017
+5. Surat berharga yang dimiliki 354.930.401
+6. Surat berharga yang dijual dengan janji dibeli kembali (repo ) 18.815.276
+7. 26.291.911
+8. Tagihan akseptasi 8.010.763
+9. Kredit yang diberikan 942.447.915
+10. Pembiayaan syariah -
+11. Penyertaan modal 46.050.734
+12. Aset keuangan lainnya 11.771.704
+13. Cadangan kerugian penurunan nilai aset keuangan -/-
+a. Surat berharga yang dimiliki (1.354.324)
+b. Kredit yang diberikan dan pembiayaan syariah (82.942.533)
+c. Lainnya (562.699)
+14. Aset tidak berwujud -
+Akumulasi amortisasi aset tidak berwujud -/- -
+15. Aset tetap dan inventaris 47.651.435
+Akumulasi penyusutan aset tetap dan inventaris -/- (13.526.569)
+16. Aset non produktif
+a. Properti terbengkalai 16.553
+b. Agunan yang diambil alih 63.926
+c. Rekening tunda -
+d. Aset antar kantor 123.748
+17. Aset lainnya 29.648.383
+TOTAL ASET 1.531.764.387
+LIABILITAS DAN EKUITAS
+LIABILITAS
+1. Giro 199.654.325
+2. Tabungan 483.257.876
+3. Deposito 395.808.455
+4. Uang Elektronik 322.494
+5. Liabilitas kepada Bank Indonesia 93.964
+6. Liabilitas kepada bank lain 13.366.046
+7. Liabilitas spot dan derivatif/forward 248.848
+8. Liabilitas atas surat berharga yang dijual dengan janji dibeli kembali (repo ) 16.468.157
+9. Liabilitas akseptasi 8.010.763
+10. Surat berharga yang diterbitkan 30.256.120
+11. Pinjaman/pembiayaan yang diterima 27.593.528
+12. Setoran jaminan 15.798
+13. Liabilitas antar kantor -
+14. Liabilitas lainnya 67.258.322
+TOTAL LIABILITAS 1.242.354.696
+No. POS - POS
+Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (reverse repo )
+LAPORAN POSISI KEUANGAN BULANAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 31 Januari 2022
+(dalam jutaan rupiah)
+INDIVIDUAL
+31 Januari 2022
+No. POS - POS
+EKUITAS
+15. Modal disetor
+a. Modal dasar 15.000.000
+b. Modal yang belum disetor -/- (7.422.050)
+c. Saham yang dibeli kembali (treasury stock ) -/- (45.997)
+16. Tambahan modal disetor
+a. Agio 76.324.093
+b. Disagio -/- -
+c. Dana setoran modal -
+d. Lainnya 226.563
+17. Penghasilan komprehensif lain
+a Keuntungan 16.864.083
+b Kerugian -/- (314.889)
+18. Cadangan
+a. Cadangan umum 3.022.685
+b. Cadangan tujuan -
+19. Laba/rugi
+a. Tahun-tahun lalu 181.510.750
+b. Tahun berjalan 4.244.453
+c. Dividen yang dibayarkan -/- -
+TOTAL EKUITAS 289.409.691
+TOTAL LIABILITAS DAN EKUITAS 1.531.764.387
+LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN BULANAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Untuk Periode yang Berakhir Pada Tanggal 31 Januari 2022
+(dalam jutaan rupiah)
+INDIVIDUAL
+31 Januari 2022
+PENDAPATAN DAN BEBAN OPERASIONAL
+1. Pendapatan Bunga 10.030.331
+2. Beban Bunga 1.641.082
+Pendapatan (Beban) Bunga Bersih 8.389.249
+B. Pendapatan dan Beban Operasional Lainnya
+1. Keuntungan (kerugian) dari peningkatan (penurunan) nilai wajar aset keuangan (38.816)
+2. Keuntungan (kerugian) dari penurunan (peningkatan) nilai wajar liabilitas keuangan -
+3. Keuntungan (kerugian) dari penjualan aset keuangan 244.603
+4. Keuntungan (kerugian) dari transaksi spot dan derivatif / forward (realised ) (29.358)
+5. Keuntungan (kerugian) dari penyertaan dengan equity method -
+6. Keuntungan (kerugian) dari penjabaran transaksi valuta asing -
+7. Pendapatan dividen -
+8. Pendapatan Komisi/provisi/fee dan administrasi 1.345.882
+9. Pendapatan lainnya 930.756
+10. Kerugian penurunan nilai aset keuangan (impairment ) 2.559.587
+11. Kerugian terkait risiko operasional 4.578
+12. Beban tenaga kerja 1.912.026
+13. Beban promosi 52.483
+14. Beban lainnya 1.057.820
+Pendapatan (Beban) Operasional Lainnya (3.133.427)
+LABA (RUGI) OPERASIONAL 5.255.822
+PENDAPATAN (BEBAN) NON OPERASIONAL
+1. Keuntungan (kerugian) penjualan aset tetap dan inventaris 506
+2. Pendapatan (beban) non operasional lainnya (1.806)
+LABA (RUGI) NON OPERASIONAL (1.300)
+LABA (RUGI) TAHUN BERJALAN SEBELUM PAJAK 5.254.522
+Pajak Penghasilan
+a. Taksiran pajak tahun berjalan -/- 1.247.234
+b. Pendapatan (beban) pajak tangguhan 237.165
+LABA (RUGI) BERSIH TAHUN BERJALAN 4.244.453
+No. POS-POS
+A. Pendapatan dan Beban Bunga
+LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN BULANAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Untuk Periode yang Berakhir Pada Tanggal 31 Januari 2022
+(dalam jutaan rupiah)
+INDIVIDUAL
+31 Januari 2022
+No. POS-POS
+PENGHASILAN KOMPREHENSIF LAIN
+1. Pos-Pos yang Tidak Akan Direklasifikasi ke Laba Rugi
+a. -
+b.
+50.465
+c. Lainnya (112.272)
+2. Pos-Pos yang Akan Direklasifikasi ke Laba Rugi
+a.
+377
+b.
+(1.726.583)
+c. Lainnya 470.792
+PENGHASILAN KOMPREHENSIF LAIN TAHUN BERJALAN SETELAH PAJAK (1.317.221)
+TOTAL LABA (RUGI) KOMPREHENSIF TAHUN BERJALAN 2.927.232
+TRANSFER LABA/RUGI KE KANTOR PUSAT
+Keuntungan (kerugian) yang berasal dari penyesuaian akibat penjabaran laporan keuangan dalam mata
+uang asing
+Keuntungan (kerugian) dari perubahan nilai wajar aset keuangan instrumen hutang yang diukur pada
+nilai wajar melalui penghasilan komprehensif lain
+Keuntungan yang berasal dari revaluasi aset tetap
+Keuntungan (kerugian) yang berasal dari pengukuran kembali atas program pensiun manfaat pasti
+LAPORAN KOMITMEN DAN KONTINJENSI BULANAN
+PT BANK RAKYAT INDONESIA (PERSERO) Tbk
+Tanggal 31 Januari 2022
+(dalam jutaan rupiah)
+INDIVIDUAL
+31 Januari 2022
+I TAGIHAN KOMITMEN
+1. Fasilitas pinjaman/pembiayaan yang belum ditarik -
+2. Posisi valas yang akan diterima dari transaksi spot dan derivatif/forward 16.193.330
+3. Lainnya -
+II KEWAJIBAN KOMITMEN
+1. Fasilitas kredit/pembiayaan yang belum ditarik
+a. Committed -
+b. Uncommitted 111.583.246
+2. Irrevocable L/C yang masih berjalan 10.672.354
+3. Posisi valas yang akan diserahkan untuk transaksi spot dan derivatif/forward 62.668.339
+4. Lainnya -
+III. TAGIHAN KONTINJENSI
+1. Garansi yang diterima -
+2. Lainnya -
+IV. KEWAJIBAN KONTINJENSI
+1. Garansi yang diberikan 45.488.973
+2. Lainnya -
+No. POS-POS
+

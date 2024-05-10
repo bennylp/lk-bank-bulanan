@@ -1,0 +1,148 @@
+LAPORAN POSISI KEUANGAN (NERACA) BULANAN
+PT BANK MANDIRI (PERSERO) Tbk.
+Tanggal 31 Oktober 2022
+(dalam jutaan)
+POS-POS NOMINAL
+ASET
+1.Kas 17.368.602
+2.Penempatan pada Bank Indonesia 152.157.567
+3.Penempatan pada bank lain 47.899.657
+4.Tagihan spot dan derivatif /forward 2.643.826
+5.Surat berharga yang dimiliki 260.156.116
+6.Surat berharga yang dijual dengan janji dibeli kembali (repo ) 43.491.839
+7.Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (reverse repo ) 1.566.343
+8.Tagihan akseptasi 8.659.628
+9.Kredit yang diberikan 906.842.227
+10.Pembiayaan syariah -
+11.Penyertaan Modal 11.059.747
+12.Aset Keuangan Lainnya 46.083.000
+13.Cadangan kerugian penurunan nilai aset keuangan -/- 61.376.401
+a. Surat berharga yang dimiliki 19.793
+b. Kredit yang diberikan dan pembiayaan syariah 59.626.020
+c. Lainnya 1.730.588
+14.Aset tidak berwujud 8.851.428
+Akumulasi amortisasi aset tidak berwujud -/- 5.384.601
+15.Aset tetap dan inventaris 60.394.532
+Akumulasi penyusutan aset tetap dan inventaris -/- 15.710.055
+16.Aset Non Produktif 1.863.289
+a.Properti terbengkalai -
+b.Aset yang diambil alih -
+c.Rekening tunda 1.863.289
+d.Aset antarkantor -
+17.Aset Lainnya 22.168.414
+TOTAL ASET 1.508.735.158
+LAPORAN POSISI KEUANGAN (NERACA) BULANAN
+PT BANK MANDIRI (PERSERO) Tbk.
+Tanggal 31 Oktober 2022
+(dalam jutaan)
+POS-POS NOMINAL
+LIABILITAS DAN EKUITAS
+LIABILITAS
+1.Giro 442.374.927
+2.Tabungan 414.603.593
+3.Deposito 266.806.666
+4.Uang elektronik 1.682.815
+5.Liabilitas kepada Bank Indonesia -
+6.Liabilitas kepada bank lain 14.444.435
+7.Liabilitas spot dan derivatif /forward 3.328.974
+8.Liabilitas atas surat berharga yang dijual dengan janji dibeli kembali (repo ) 41.834.281
+9.Liabilitas akseptasi 8.659.628
+10.Surat berharga yang diterbitkan 36.410.294
+11.Pinjaman/pembiayaan yang diterima 43.352.335
+12.Setoran jaminan 744.423
+13.Liabilitas antar kantor 47.145
+14.Liabilitas lainnya 36.708.097
+TOTAL LIABILITAS 1.310.997.613
+EKUITAS
+15.Modal disetor 11.666.667
+a. Modal dasar 16.000.000
+b. Modal yang belum disetor -/- 4.333.333
+c. Saham yang dibeli kembali (treasury stock ) -/- -
+16.Tambahan modal disetor 18.941.550
+a. Agio 18.941.550
+b. Disagio -/- -
+c. Dana setoran modal -
+d. Lainnya -
+17.Penghasilan komprehensif lainnya 25.623.304
+a. Keuntungan 31.222.265
+b. Kerugian (-/-) 5.598.961
+18.Cadangan 2.333.333
+a. Cadangan umum 2.333.333
+b. Cadangan tujuan -
+19.Laba/rugi 139.172.691
+a. Tahun-tahun lalu 124.472.820
+b. Tahun berjalan 31.516.764
+c. Dividen yang dibayarkan (-/-) 16.816.893
+TOTAL EKUITAS 197.737.545
+TOTAL LIABILITAS DAN EKUITAS 1.508.735.158
+LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN BULANAN
+PT BANK MANDIRI (PERSERO) Tbk.
+Tanggal 31 Oktober 2022
+(dalam jutaan)
+POS-POS NOMINAL
+PENDAPATAN DAN BEBAN OPERASIONAL
+A. Pendapatan dan Beban Bunga
+1. Pendapatan Bunga 66.900.415
+2. Beban Bunga 13.740.812
+Pendapatan (Beban) Bunga bersih 53.159.603
+B. Pendapatan dan Beban Operasional selain Bunga
+1. Keuntungan (kerugian) dari peningkatan (penurunan) nilai wajar aset keuangan 2.144.143
+2. Keuntungan (kerugian) dari penurunan (peningkatan) nilai wajar liabilitas keuangan -
+3. Keuntungan (kerugian) dari penjualan aset keuangan 919.020
+4. Keuntungan (kerugian) dari transaksi spot dan derivatif/forward (realised) 154.105
+5. Keuntungan (kerugian) dari penyertaan dengan equity method -
+6. Keuntungan (kerugian) dari penjabaran transaksi valuta asing -
+7. Pendapatan dividen 1.016.502
+8. Komisi/provisi/fee dan administrasi 11.615.975
+9. Pendapatan lainnya 6.181.228
+10. Kerugian penurunan nilai aset keuangan (impairment) 8.584.525
+11. Kerugian terkait risiko operasional 29.342
+12. Beban tenaga kerja 12.700.229
+13. Beban promosi 999.417
+14. Beban lainnya 13.967.108
+Pendapatan (Beban) Operasional Lainnya (14.249.648)
+LABA (RUGI) OPERASIONAL 38.909.955
+PENDAPATAN (BEBAN) NON OPERASIONAL
+1. Keuntungan (kerugian) penjualan aset tetap dan inventaris 369
+2. Pendapatan (beban) non operasional lainnya 133.074
+LABA (RUGI) NON OPERASIONAL 133.443
+LABA (RUGI) TAHUN BERJALAN SEBELUM PAJAK 39.043.398
+3. Pajak Penghasilan 7.526.634
+a. Taksiran pajak tahun berjalan (-/-) 7.600.646
+b. (Pendapatan) beban pajak tangguhan (74.012)
+LABA (RUGI) BERSIH TAHUN BERJALAN 31.516.764
+PENGHASILAN KOMPREHENSIF LAIN
+1. Pos-pos yang tidak akan direklasifikasi ke laba rugi -
+a. Keuntungan yang berasal dari revaluasi aset tetap -
+b. Keuntungan (kerugian) yang berasal dari pengukuran kembali atas program pensiun manfaat pasti -
+c. Lainnya -
+2. Pos-pos yang akan direklasifikasi ke laba rugi (6.852.564)
+a. Keuntungan (kerugian) yang berasal dari penyesuaian akibat penjabaran laporan keuangan dalam mata uang asing (7.466)
+b. Keuntungan (kerugian) dari perubahan nilai wajar aset keuangan instrumen hutang yang diukur pada nilai wajar melalui penghasilan komprehensif lain (6.845.098)
+c. Lainnya -
+PENGHASILAN KOMPREHENSIF LAIN TAHUN BERJALAN - SETELAH PAJAK (6.852.564)
+TOTAL LABA (RUGI) KOMPREHENSIF TAHUN BERJALAN 24.664.200
+TRANSFER LABA (RUGI) KE KANTOR PUSAT -
+LAPORAN KOMITMEN DAN KONTINJENSI BULANAN
+PT BANK MANDIRI (PERSERO) Tbk.
+Tanggal 31 Oktober 2022
+(dalam jutaan)
+POS-POS NOMINAL
+I. TAGIHAN KOMITMEN 202.488.375
+1. Fasilitas pinjaman/pembiayaan yang belum ditarik -
+2. Posisi valas yang akan diterima dari transaksi pembelian spot dan derivatif / forward 202.488.375
+3. Lainnya -
+II. KEWAJIBAN KOMITMEN 426.841.560
+1. Fasilitas kredit/pembiayaan kepada nasabah yang belum ditarik 188.299.742
+a. Committed 52.166.946
+b. Uncommitted 136.132.796
+2. Irrevocable L/C yang masih berjalan 30.838.079
+3. Posisi valas yang akan diserahkan untuk transaksi spot dan derivatif/forward 207.703.739
+4. Lainnya -
+III.TAGIHAN KONTINJENSI 25.973.432
+1. Garansi yang diterima 25.939.073
+2. Lainnya 34.359
+IV.KEWAJIBAN KONTINJENSI 110.091.576
+1. Garansi yang diberikan 108.195.277
+2. Lainnya 1.896.299
+
